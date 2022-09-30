@@ -29,6 +29,12 @@
   "Nationality": "Spanish", 
   "Club": "Real Madrid", 
   "Positon": "Defender" 
+  },
+    {
+  "Player name": "Wayne Rooney", 
+  "Nationality": "English", 
+  "Club": "Manchester United", 
+  "Positon": "Forward" 
   }
   
 ]
