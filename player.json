@@ -13,14 +13,21 @@
   },
   {
   "Player name": "cristiano ronaldo", 
-  "Nationality": "portugese", 
+  "Nationality": "portuguese", 
   "Club": "manchester united", 
   "Positon": "Forward left winger" 
   },
   {
   "Player name": "Sunil Chhetri", 
   "Nationality": "Indian", 
-  "Club": " India national football team", 
+  "Club": " indian national football team", 
   "Positon": "Forward" 
+  },
+  {
+  "Player name": "Robert Lewandowski", 
+  "Nationality": "poland", 
+  "Club": " poland national football team", 
+  "Positon": "Forward" 
+  },
   
 ]
