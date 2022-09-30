@@ -23,12 +23,6 @@
   "Club": " India national football team", 
   "Positon": "Forward" 
   },
-  {
-   "Player name": "Neymar Jr", 
-  "Nationality": "Brazilian", 
-  "Club": "PSG", 
-  "Positon": "Forward"
-  },
     
   {
   "Player name": "Sergio Ramos", 
@@ -36,17 +30,12 @@
   "Club": "Real Madrid", 
   "Positon": "Defender" 
   },
-    {
-  "Player name": "Wayne Rooney", 
-  "Nationality": "English", 
-  "Club": "Manchester United", 
-  "Positon": "Forward" 
-  }
+  
    {
-  "Player name": "mbappe", 
-  "Nationality": "france", 
-  "Club": "paris sentgerman", 
-  "Positon": "forward left wing" 
+  "Player name": "Neymar", 
+  "Nationality": "Brazil", 
+  "Club": "Paris saint-Ger", 
+  "Positon": "Forward" 
   }
   
 ]
