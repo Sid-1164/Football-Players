@@ -1,7 +1,7 @@
 [
   {
-  "Player name": "Lionel Messi", 
-  "Nationality": "Argentinian", 
+  "Player name": " Neymar Jr", 
+  "Nationality": "Brazilian", 
   "Club": "Paris Saint Germain", 
   "Positon": "Forward" 
   },
@@ -15,12 +15,25 @@
   
   {
   "Player name": "cristiano ronaldo", 
-  "Nationality": "portugese", 
+  "Nationality": "portuguese", 
   "Club": "manchester united", 
   "Positon": "Forward left winger" 
   },
   
   {
+
+  "Player name": "Marcelo", 
+  "Nationality": "Brazilian", 
+  "Club": " Real Madrid", 
+  "Positon": "Mid fielder" 
+  },
+  {
+  "Player name": "Robert Lewandowski", 
+  "Nationality": "poland", 
+  "Club": " poland national football team", 
+  "Positon": "Forward" 
+  }
+
   "Player name": "Sunil Chhetri", 
   "Nationality": "Indian", 
   "Club": " India national football team", 
@@ -36,12 +49,20 @@
   },
 
   {
+
+  "Player name": " Gurpreet Singh Sandhu", 
+  "Nationality": "Indian", 
+  "Club": " India national football team", 
+  "Positon": "Goalkeeper" 
+  },
+
   "Player name": "Jeje Lalpekhlua Fanai", 
   "Nationality": "Indian", 
   "Club": "Chennaiyin FC", 
   "Positon": "Forward Striker" 
   }
   
+,
 
 
   {
@@ -88,13 +109,14 @@
   "Club": "Paris saint-Ger", 
   "Positon": "Forward" 
 
-  
+},
   {
   "Player name": "Wayne Rooney", 
   "Nationality": "English", 
   "Club": "Manchester United", 
   "Positon": "Forward" 
   },
+
   
   {
   "Player name": "mbappe", 
@@ -107,6 +129,26 @@
   "Nationality": "British", 
   "Club": "Southampton F.C.", 
   "Positon": "Defender" 
+  {
+  "Player name": "Manvir Singh", 
+  "Nationality": "India", 
+  "Club": " ATK Mohun Bagan ", 
+  "Positon": "forward left wing" 
+
+
+{"Player name": "Bhaichung Bhutia", 
+  "Nationality": "Indian", 
+  "Club": "none", 
+  "Positon": "none"
+},
+
+
+  {
+  "Player name": "Dan Dekich", 
+  "Nationality": "Amerika", 
+  "Club": "sportscaster", 
+  "Positon": "Goal keeper" 
   }
+
 
 ]
