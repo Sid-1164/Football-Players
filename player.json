@@ -29,11 +29,29 @@
   "Club": " American national football team", 
   "Positon": "Forward" 
 }, 
+{
+   "Player name": "Neymar Jr", 
+  "Nationality": "Brazilian", 
+  "Club": "PSG", 
+  "Positon": "Forward"
+  },
   {
   "Player name": "Sergio Ramos", 
   "Nationality": "Spanish", 
   "Club": "Real Madrid", 
   "Positon": "Defender" 
+  },
+    {
+  "Player name": "Wayne Rooney", 
+  "Nationality": "English", 
+  "Club": "Manchester United", 
+  "Positon": "Forward" 
+  },
+   {
+  "Player name": "mbappe", 
+  "Nationality": "france", 
+  "Club": "paris sentgerman", 
+  "Positon": "forward left wing" 
   }
   
 ]
