@@ -6,9 +6,21 @@
   "Positon": "Forward" 
   },
   {
-  "Player name": "sunil chettri", 
-  "Nationality": "india", 
-  "Club": "india", 
-  "Positon": "Forward" 
+  "Player name": "Diego Maradona", 
+  "Nationality": "Argentinian", 
+  "Club": "FC Barcelona", 
+  "Positon": "Midfielder" 
   },
+  {
+  "Player name": "cristiano ronaldo", 
+  "Nationality": "portugese", 
+  "Club": "manchester united", 
+  "Positon": "Forward left winger" 
+  },
+  {
+  "Player name": "Sunil Chhetri", 
+  "Nationality": "Indian", 
+  "Club": " India national football team", 
+  "Positon": "Forward" 
+  
 ]
