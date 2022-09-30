@@ -54,6 +54,14 @@
   "Club": "Real Madrid", 
   "Positon": "Defender" 
   },
+
+    {
+  "Player name": "Pique Gerard", 
+  "Nationality": "Spanish", 
+  "Club": "F.C.Barcelona", 
+  "Positon": "Defender" 
+  },
+
   
 
    {
@@ -75,5 +83,5 @@
   "Club": "paris sentgerman", 
   "Positon": "forward left wing" 
   }
-  
+
 ]
