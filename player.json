@@ -28,7 +28,19 @@
   "Nationality": "Brazilian", 
   "Club": "PSG", 
   "Positon": "Forward"
+  },
     
+  {
+  "Player name": "Sergio Ramos", 
+  "Nationality": "Spanish", 
+  "Club": "Real Madrid", 
+  "Positon": "Defender" 
+  }
+   {
+  "Player name": "mbappe", 
+  "Nationality": "france", 
+  "Club": "paris sentgerman", 
+  "Positon": "forward left wing" 
   }
   
 ]
