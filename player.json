@@ -148,7 +148,16 @@
   "Nationality": "Amerika", 
   "Club": "sportscaster", 
   "Positon": "Goal keeper" 
+
+  },
+  
+    {
+  "Player name": "Cristiano Ronaldo", 
+  "Nationality": "Portuguese", 
+  "Club": "Manchester United, Portugal", 
+  "Positon": "Forward" 
   }
+  
 
 
 ]
