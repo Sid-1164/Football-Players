@@ -27,20 +27,22 @@
   "Club": " Real Madrid", 
   "Positon": "Mid fielder" 
   },
+  
   {
   "Player name": "Robert Lewandowski", 
   "Nationality": "poland", 
   "Club": " poland national football team", 
   "Positon": "Forward" 
-  }
-
+  },
+  
+  {
   "Player name": "Sunil Chhetri", 
   "Nationality": "Indian", 
   "Club": " India national football team", 
   "Positon": "Forward" 
-
+  },
     
-      {
+  {
   "Player name": "Luis Suárez", 
   "Nationality": "Uruguayan", 
   "Club": "Barcelona", 
@@ -49,7 +51,6 @@
   },
 
   {
-
   "Player name": " Gurpreet Singh Sandhu", 
   "Nationality": "Indian", 
   "Club": " India national football team", 
@@ -60,16 +61,6 @@
   "Nationality": "Indian", 
   "Club": "Chennaiyin FC", 
   "Positon": "Forward Striker" 
-  }
-  
-,
-
-
-  {
-  "Player name": "gurpreet singh sandhu", 
-  "Nationality": "India", 
-  "Club": "Bengaluru ", 
-  "Positon": "Goalkeeper" 
   },
 
   {
@@ -80,36 +71,19 @@
  }, 
 
  {
-  "Player name": "Neymar Jr", 
-  "Nationality": "Brazilian", 
-  "Club": "PSG", 
-  "Positon": "Forward"
-
-  },
-  
-  {
   "Player name": "Sergio Ramos", 
   "Nationality": "Spanish", 
   "Club": "Real Madrid", 
   "Positon": "Defender" 
   },
 
-    {
+  {
   "Player name": "Pique Gerard", 
   "Nationality": "Spanish", 
   "Club": "F.C.Barcelona", 
   "Positon": "Defender" 
   },
 
-  
-
-   {
-  "Player name": "Neymar", 
-  "Nationality": "Brazil", 
-  "Club": "Paris saint-Ger", 
-  "Positon": "Forward" 
-
-},
   {
   "Player name": "Wayne Rooney", 
   "Nationality": "English", 
@@ -117,32 +91,27 @@
   "Positon": "Forward" 
   },
 
-  
   {
   "Player name": "mbappe", 
   "Nationality": "france", 
   "Club": "paris sentgerman", 
   "Positon": "forward left wing" 
   },
-{
+
+  {
   "Player name": "TINO LIVRAMENTO", 
   "Nationality": "British", 
   "Club": "Southampton F.C.", 
   "Positon": "Defender" 
+  },
+
   {
   "Player name": "Manvir Singh", 
   "Nationality": "India", 
   "Club": " ATK Mohun Bagan ", 
   "Positon": "forward left wing" 
-
-
-{"Player name": "Bhaichung Bhutia", 
-  "Nationality": "Indian", 
-  "Club": "none", 
-  "Positon": "none"
-},
-
-
+  },
+ 
   {
   "Player name": "Dan Dekich", 
   "Nationality": "Amerika", 
@@ -150,28 +119,19 @@
   "Positon": "Goal keeper" 
 
   },
-  
-    {
-  "Player name": "Cristiano Ronaldo", 
-  "Nationality": "Portuguese", 
-  "Club": "Manchester United, Portugal", 
-  "Positon": "Forward" 
-  }
 
- {
+  {
   "Player name": "Jadon Sancho", 
   "Nationality": "England", 
   "Club": "Manchester United", 
   "Positon": "Left Wing" 
 
   },
-   {
+
+  {
   "Player name": "Gabriel Batistuta", 
   "Nationality": "Argentina", 
   "Club": "Fiorentina", 
   "Positon": "Striker" 
   }
-  
-
-
 ]
