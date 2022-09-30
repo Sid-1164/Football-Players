@@ -4,5 +4,11 @@
   "Nationality": "Argentinian", 
   "Club": "Paris Saint Germain", 
   "Positon": "Forward" 
+  },
+  {
+  "Player name": "Diego Maradona", 
+  "Nationality": "Argentinian", 
+  "Club": "FC Barcelona", 
+  "Positon": "Midfielder" 
   }
 ]
