@@ -36,12 +36,20 @@
   },
 
   {
+
+  "Player name": " Gurpreet Singh Sandhu", 
+  "Nationality": "Indian", 
+  "Club": " India national football team", 
+  "Positon": "Goalkeeper" 
+  },
+
   "Player name": "Jeje Lalpekhlua Fanai", 
   "Nationality": "Indian", 
   "Club": "Chennaiyin FC", 
   "Positon": "Forward Striker" 
   }
   
+,
 
 
   {
@@ -88,7 +96,7 @@
   "Club": "Paris saint-Ger", 
   "Positon": "Forward" 
 
-  
+},
   {
   "Player name": "Wayne Rooney", 
   "Nationality": "English", 
