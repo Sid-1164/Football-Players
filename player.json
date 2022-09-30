@@ -25,6 +25,14 @@
   "Nationality": "Indian", 
   "Club": " India national football team", 
   "Positon": "Forward" 
+
+    
+      {
+  "Player name": "Luis Suárez", 
+  "Nationality": "Uruguayan", 
+  "Club": "Barcelona", 
+  "Positon": "Forward" 
+
   },
 
   {
@@ -55,6 +63,7 @@
   "Nationality": "Brazilian", 
   "Club": "PSG", 
   "Positon": "Forward"
+
   },
   
   {
