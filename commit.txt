@@ -1,9 +1,0 @@
-Use the following format;
-[
-  {
-  "Player name": "name of the player", 
-  "Nationality": "Nationality of the player", 
-  "Club": "Current club for which the player is playing", 
-  "Position": "the prefferred postion at which the player plays"
-  }
-]
