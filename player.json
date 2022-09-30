@@ -28,6 +28,12 @@
   "Nationality": "American", 
   "Club": " American national football team", 
   "Positon": "Forward" 
+}, 
+  {
+  "Player name": "Sergio Ramos", 
+  "Nationality": "Spanish", 
+  "Club": "Real Madrid", 
+  "Positon": "Defender" 
   }
   
 ]
