@@ -24,12 +24,17 @@
   "Positon": "Forward" 
   },
   {
+  "Player name": "George Kittle", 
+  "Nationality": "American", 
+  "Club": " American national football team", 
+  "Positon": "Forward" 
+}, 
+{
    "Player name": "Neymar Jr", 
   "Nationality": "Brazilian", 
   "Club": "PSG", 
   "Positon": "Forward"
   },
-    
   {
   "Player name": "Sergio Ramos", 
   "Nationality": "Spanish", 
@@ -41,7 +46,7 @@
   "Nationality": "English", 
   "Club": "Manchester United", 
   "Positon": "Forward" 
-  }
+  },
    {
   "Player name": "mbappe", 
   "Nationality": "france", 
