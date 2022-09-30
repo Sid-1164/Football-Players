@@ -133,5 +133,22 @@
   "Nationality": "Argentina", 
   "Club": "Fiorentina", 
   "Positon": "Striker" 
+  },
+  
+  {
+  "Player name": "Ángel Di María", 
+  "Nationality": "Argentina", 
+  "Club": "Juventus F.C.", 
+  "Positon": "Midfielder" 
+
+  },
+  
+  {
+  "Player name": "Stefan de Vrij", 
+  "Nationality": "Dutch", 
+  "Club": "Inter Milan", 
+  "Positon": "Defender" 
+
   }
+  
 ]
