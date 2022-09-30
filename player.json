@@ -25,14 +25,31 @@
   "Nationality": "Indian", 
   "Club": " India national football team", 
   "Positon": "Forward" 
+
+    
+      {
+  "Player name": "Luis Suárez", 
+  "Nationality": "Uruguayan", 
+  "Club": "Barcelona", 
+  "Positon": "Forward" 
+
   },
 
   {
+
   "Player name": " Gurpreet Singh Sandhu", 
   "Nationality": "Indian", 
   "Club": " India national football team", 
   "Positon": "Goalkeeper" 
   },
+
+  "Player name": "Jeje Lalpekhlua Fanai", 
+  "Nationality": "Indian", 
+  "Club": "Chennaiyin FC", 
+  "Positon": "Forward Striker" 
+  }
+  
+,
 
 
   {
@@ -54,6 +71,7 @@
   "Nationality": "Brazilian", 
   "Club": "PSG", 
   "Positon": "Forward"
+
   },
   
   {
@@ -78,6 +96,7 @@
   "Club": "Paris saint-Ger", 
   "Positon": "Forward" 
 
+},
   {
   "Player name": "Wayne Rooney", 
   "Nationality": "English", 
